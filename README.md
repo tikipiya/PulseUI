@@ -49,9 +49,11 @@ animator.pulse(button, scale=1.2)
 
 ## 📦 インストール
 
-```bash
+
 # PyPIからインストール
+```bash
 pip install pulse-ui
+```
 
 ## 🚀 クイックスタート
 
